@@ -1,4 +1,4 @@
-#Esto es añadido por Joseph Bryan para que bomberman no se quede solo
+#Esto es añadido por Joseph Bryan para que bomberman no se quede solo XD
 
 Bomberman
 =========
